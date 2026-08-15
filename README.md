@@ -8,6 +8,6 @@ Make sure you have `flex`, `bison`, and `clang` installed (Works on Linux, macOS
 
 ```bash
 git clone https://github.com/bamiyor44/numox-vora.git
-https://github.com/bamiyor44/numox-vora.git
+https://github.com/BAmiyor@44/numox-vora.git
 cd numox-vora
 make
