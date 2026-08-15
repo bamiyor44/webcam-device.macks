@@ -7,6 +7,7 @@ A custom kernel-style interactive shell, parser engine, and LLVM virtual machine
 Make sure you have `flex`, `bison`, and `clang` installed (Works on Linux, macOS, and Termux/Android):
 
 ```bash
-git clone [https://github.com/bamiyor44/numox-vora.git](https://github.com/bamiyor44/numox-vora.git)
+git clone https://github.com/bamiyor44/numox-vora.git
+https://github.com/bamiyor44/numox-vora.git
 cd numox-vora
 make
